@@ -1,5 +1,7 @@
 # Практическое задание #6
 
+## Ноубук доступен в Google Colab по [ссылке](https://colab.research.google.com/drive/1KoJfaIyGbk-FpoC5BO-rmhHZFTpdX5Cd?usp=sharing)
+
 # **Задание:**
 
 1. Считайте датасет из файла train.csv (это данные о выживаемости на Титанике)
@@ -15,7 +17,7 @@
 
 # Корреляция
 
-![corr](imgs/corr.jpg)
+![corr](imgs/corr.png)
 
 
 # Метрики
