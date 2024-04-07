@@ -1,6 +1,6 @@
 # Практическое задание #6
 
-## Ноубук доступен в Google Colab по [ссылке](https://colab.research.google.com/drive/1KoJfaIyGbk-FpoC5BO-rmhHZFTpdX5Cd?usp=sharing)
+#### Ноубук доступен в Google Colab по [ссылке](https://colab.research.google.com/drive/1KoJfaIyGbk-FpoC5BO-rmhHZFTpdX5Cd?usp=sharing)
 
 # **Задание:**
 
