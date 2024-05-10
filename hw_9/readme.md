@@ -1,6 +1,6 @@
 # **Практическое_задание 9**
 
-![Изображение](imgs/Housing valuation.png)
+![Изображение](imgs/Housing_valuation.png)
 
 ## **Задание**
 
