@@ -1,6 +1,6 @@
 # **Практическое_задание 9**
 
-![Изображение](img/Housing valuation.png)
+![Изображение](imgs/Housing valuation.png)
 
 ## **Задание**
 
@@ -28,17 +28,17 @@
 
 ### Способ 1 - **LabelEncoder()**
 
-![Изображение](img/LabelEncoder_1.png)
+![Изображение](imgs/LabelEncoder_1.png)
 
 ##### Значение городов были преобразованы в численные значения с помощью **LabelEncoder**
 
-![Изображение](img/LabelEncoder_2.png)
+![Изображение](imgs/LabelEncoder_2.png)
 
 ### Способ 2 - **get_dummies**
 
 ##### Значение городов были преобразованы в численные значения с помощью метода **get_dummies**
 
-![Изображение](img/get_dummies.png)
+![Изображение](imgs/get_dummies.png)
 
 ## **Обучение модели**
 
@@ -52,7 +52,7 @@
 
 ## **Streamlit**
 
-![Изображение](img/Streamlit.png)
+![Изображение](imgs/Streamlit.png)
 
 Выбор параметров производится разными способами (подписаны на скриншоте)
 
